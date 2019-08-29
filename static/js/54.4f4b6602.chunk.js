@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[54],{89:function(e,n,t){"use strict";t.r(n);var a=t(0),i=t.n(a);n.default=function(e){return i.a.createElement("svg",Object.assign({width:263,height:2},e),i.a.createElement("path",{d:"M0 1l262.5.5",stroke:"#353D91",fill:"none",fillRule:"evenodd",strokeLinecap:"square"}))}}}]);
+//# sourceMappingURL=54.4f4b6602.chunk.js.map

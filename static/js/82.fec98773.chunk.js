@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[82],{117:function(e,t,n){"use strict";n.r(t);var a=n(0),r=n.n(a);t.default=function(e){return r.a.createElement("svg",Object.assign({width:15,height:9},e),r.a.createElement("text",{transform:"translate(-1039 -176)",fill:"#122373",fillRule:"evenodd",fontFamily:"Montserrat-SemiBold, Montserrat",fontSize:10,fontWeight:500,letterSpacing:-.229},r.a.createElement("tspan",{x:1039,y:184},"132 ")))}}}]);
-//# sourceMappingURL=82.fec98773.chunk.js.map

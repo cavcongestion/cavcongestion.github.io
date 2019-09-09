@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[61],{119:function(e,n,t){"use strict";t.r(n);var a=t(0),i=t.n(a);n.default=function(e){return i.a.createElement("svg",Object.assign({width:91,height:38},e),i.a.createElement("path",{d:"M0 1h.502A3.71 3.71 0 014.21 4.71h0v29.454A2.836 2.836 0 007.047 37H91",stroke:"#122373",fill:"none",fillRule:"evenodd"}))}}}]);
-//# sourceMappingURL=61.c213231e.chunk.js.map
